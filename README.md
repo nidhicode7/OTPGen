@@ -28,15 +28,6 @@ This is a great project for beginners who want to understand:
 
 ---
 
-## 📷 Screenshots
-
-| Email Page                        | OTP Page                          |
-|----------------------------------|------------------------------------|
-| ![Email Input](screenshots/email_input.png) | ![OTP Input](screenshots/otp_input.png) |
-
-> 📌 *Create a `screenshots/` folder and place your screenshots there.*
-
----
 
 ## 🧠 How It Works
 
@@ -46,7 +37,5 @@ This is a great project for beginners who want to understand:
 4. User is redirected to a page to enter the OTP.
 5. If the OTP matches, a success message is shown; otherwise, an error message is displayed.
 
----
 
-## 📁 Folder Structure
 
