@@ -8,6 +8,7 @@ This is a great project for beginners who want to understand:
 - How server-side validation is done
 - The basics of web development using Flask
 
+
 ---
 
 ## 🌟 Features
